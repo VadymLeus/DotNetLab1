@@ -1,0 +1,8 @@
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\bin\Debug\ConsoleBankApp.exe.config
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\bin\Debug\ConsoleBankApp.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\bin\Debug\ConsoleBankApp.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\obj\Debug\ConsoleBankApp.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\obj\Debug\ConsoleBankApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\obj\Debug\ConsoleBankApp.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\obj\Debug\ConsoleBankApp.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ConsoleBankApp\obj\Debug\ConsoleBankApp.pdb

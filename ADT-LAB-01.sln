@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBankApp", "ADT-LAB-01\FormBankApp.csproj", "{3875C5FD-E731-41D0-8640-09BECBFBA474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBankApp", "ConsoleBankApp\ConsoleBankApp.csproj", "{4E57BDE7-5909-4CC2-A994-D706100809FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3875C5FD-E731-41D0-8640-09BECBFBA474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3875C5FD-E731-41D0-8640-09BECBFBA474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3875C5FD-E731-41D0-8640-09BECBFBA474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3875C5FD-E731-41D0-8640-09BECBFBA474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E57BDE7-5909-4CC2-A994-D706100809FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E57BDE7-5909-4CC2-A994-D706100809FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E57BDE7-5909-4CC2-A994-D706100809FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E57BDE7-5909-4CC2-A994-D706100809FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E40B395-0349-433C-A0D1-F1C49A04E8D2}
+	EndGlobalSection
+EndGlobal

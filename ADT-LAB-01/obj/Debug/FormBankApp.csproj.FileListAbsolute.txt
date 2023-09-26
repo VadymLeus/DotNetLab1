@@ -1,0 +1,12 @@
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\bin\Debug\ADT-LAB-01.exe.config
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\bin\Debug\ADT-LAB-01.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\bin\Debug\ADT-LAB-01.pdb
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\FormBankApp.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\FormBankApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\ADT_LAB_01.Bank.resources
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\ADT_LAB_01.Login.resources
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\ADT_LAB_01.Properties.Resources.resources
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\FormBankApp.csproj.GenerateResource.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\FormBankApp.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\ADT-LAB-01.exe
+C:\Users\Вадим\Desktop\U.W.F\University\Полуфабрикаты\ADT-LAB-01\ADT-LAB-01\obj\Debug\ADT-LAB-01.pdb
